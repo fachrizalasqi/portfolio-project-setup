@@ -26,5 +26,3 @@ Actions Taken:
 
 Result:
 Extension was unavailable in my current Cursor version.
-
-/screenshoots
